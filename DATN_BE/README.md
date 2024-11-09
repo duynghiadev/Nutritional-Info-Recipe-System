@@ -1,5 +1,7 @@
 ## Installation
 
+`nvm use 20.9.0`
+
 ```bash
 $ npm install
 ```
