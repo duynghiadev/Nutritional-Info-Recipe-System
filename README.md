@@ -4,6 +4,8 @@
 
 Đây là đồ án tốt nghiệp của **Lê Nguyễn Duy Nghĩa**, sinh viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, lớp 20SE4. Đồ án được thực hiện dưới sự hướng dẫn của **ThS. Đặng Thị Kim Ngân**.
 
+Video Demo: https://www.youtube.com/watch?v=HaXA2q52fBg
+
 ## Mục Lục
 
 - [Giới Thiệu](#giới-thiệu)
