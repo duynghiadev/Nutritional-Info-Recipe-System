@@ -2,7 +2,7 @@
 
 **Admin**: [https://admin.duynghia-vku.website/](https://admin.duynghia-vku.website/)
 
-**Client**: [https://duynghia-vku.website/](https://duynghia-vku.website/)
+**Client**: [http://localhost:4000/](http://localhost:4000/)
 
 ---
 
@@ -34,13 +34,17 @@ ssh aws-server
 
 - Lệnh để cấu hình nginx:
 
+```bash
   sudo vim /etc/nginx/sites-available/default
+```
 
 ![Config Socket](config-socket.png)
 
 - Sau khi deploy lên server -> nếu server sập, hết hạn mức free thì sửa link này:
 
-  thay http://localhost:4000 thành https://duynghia-vku.website
+  thay `https://duynghia-vku.website` thành `http://localhost:4000`
+
+- Và cũng ngược lại, nếu chạy tại local mà đăng kí lỗi, hay lỗi socket thì cũng thay lại đường dẫn này `http://localhost:4000`
 
 ---
 
