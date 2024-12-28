@@ -6,6 +6,44 @@
 
 ---
 
+### Hướng Dẫn Vào Server Tại Máy Local Mà Không Cần Phải Vào Web AWS
+
+- Mình đã config ssh vào trong máy tính rồi, nên chỉ cần chạy lệnh này là có thể remote vào server:
+
+```bash
+ssh aws-server
+```
+
+- Đẩy source lên AWS:
+
+```bash
+  rsync -avz -e "ssh -i ~/Desktop/duynghia123.pem" ~/Downloads/Nutritional-Info-Recipe-System ubuntu@54.251.89.183:~/
+```
+
+- Vào server AWS tại local thay vì vào trang AWS:
+
+```bash
+  ssh -i ~/Desktop/duynghia123.pem ubuntu@54.251.89.183
+```
+
+- Thay vì dùng lệnh trên dài quá thì gõ lệnh này (mình đã config trong ssh rồi):
+
+```bash
+ssh aws-server
+```
+
+- Lệnh để cấu hình nginx:
+
+  sudo vim /etc/nginx/sites-available/default
+
+![Config Socket](config-socket.png)
+
+- Sau khi deploy lên server -> nếu server sập, hết hạn mức free thì sửa link này:
+
+  thay http://localhost:4000 thành https://duynghia-vku.website
+
+---
+
 ## Giới Thiệu Đồ Án
 
 Đây là đồ án tốt nghiệp của **Lê Nguyễn Duy Nghĩa**, sinh viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, lớp 20SE4. Đồ án được thực hiện dưới sự hướng dẫn của **ThS. Đặng Thị Kim Ngân**.
