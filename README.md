@@ -1,18 +1,23 @@
 # Hệ Thống Chia Sẻ Công Thức và Thông Tin Dinh Dưỡng
 
+**Admin**: [https://admin.duynghia-vku.website/](https://admin.duynghia-vku.website/)
+**Client**: [https://duynghia-vku.website/](https://duynghia-vku.website/)
+
+---
+
 ## Giới Thiệu Đồ Án
 
 Đây là đồ án tốt nghiệp của **Lê Nguyễn Duy Nghĩa**, sinh viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, lớp 20SE4. Đồ án được thực hiện dưới sự hướng dẫn của **ThS. Đặng Thị Kim Ngân**.
 
-**Video Demo**: https://www.youtube.com/watch?v=HaXA2q52fBg
+- **Video Demo**: [https://www.youtube.com/watch?v=HaXA2q52fBg](https://www.youtube.com/watch?v=HaXA2q52fBg)
+- **Ảnh Visually Data Model**: `DATN.mm` (sử dụng tool Moon Modeler để xem file này)
 
-**Ảnh visually data model**: DATN.mm (mình dùng tool Moon Model để xem file này)
+### Giới Thiệu Tool Moon Modeler
 
-## Giới thiệu tool Moon Modeler
+- Moon Modeler là một công cụ mô hình hóa dữ liệu, cho phép định nghĩa trực quan các mô hình dữ liệu cho cơ sở dữ liệu NoSQL. Công cụ hỗ trợ vẽ sơ đồ, trực quan hóa cơ sở dữ liệu hiện có và tạo mã script.
+- **Link Tool**: [https://www.datensen.com/data-modeling/moon-modeler-for-databases.html](https://www.datensen.com/data-modeling/moon-modeler-for-databases.html)
 
-- Moon Modeler is a data modeling tool that allows you to visually define data models for noSQL databases. Draw diagrams, visualize existing databases and generate scripts. Supported platforms: MongoDB® and compatible platforms like CosmosDB® and DocumentDB®
-
-- Link tool: https://www.datensen.com/data-modeling/moon-modeler-for-databases.html
+---
 
 ## Mục Lục
 
@@ -24,10 +29,15 @@
 - [Ý Nghĩa Khoa Học và Thực Tiễn](#ý-nghĩa-khoa-học-và-thực-tiễn)
 - [Tiến Độ Thực Hiện](#tiến-độ-thực-hiện)
 - [Hướng Phát Triển Tương Lai](#hướng-phát-triển-tương-lai)
+- [Thông Tin Liên Hệ](#thông-tin-liên-hệ)
+
+---
 
 ## Giới Thiệu
 
 Trong bối cảnh quan tâm đến sức khỏe ngày càng gia tăng, đặc biệt là sau đại dịch, nhu cầu về một hệ thống tích hợp thông tin dinh dưỡng và công thức nấu ăn trở nên quan trọng hơn bao giờ hết. Các nền tảng hiện tại thường thiếu kết nối giữa món ăn và giá trị dinh dưỡng, gây khó khăn cho người dùng trong việc quản lý chế độ ăn uống và sức khỏe cá nhân. Dự án này nhằm giải quyết vấn đề đó bằng cách tạo ra một nền tảng kết hợp giữa chia sẻ công thức, theo dõi dinh dưỡng và quản lý sức khỏe.
+
+---
 
 ## Mục Tiêu
 
@@ -38,10 +48,14 @@ Các mục tiêu chính của dự án bao gồm:
 3. Cung cấp các chức năng hỗ trợ theo dõi sức khỏe và gợi ý chế độ ăn uống phù hợp.
 4. Triển khai tính năng tìm kiếm công thức qua hình ảnh để cải thiện trải nghiệm người dùng.
 
+---
+
 ## Đối Tượng và Phạm Vi
 
 - **Đối Tượng**: Người dùng có nhu cầu tìm kiếm thông tin về nấu ăn và dinh dưỡng.
 - **Phạm Vi**: Hệ thống sẽ là một ứng dụng web sử dụng ReactJS, NodeJS và MongoDB với các tính năng như chia sẻ món ăn, tìm kiếm bằng hình ảnh và quản lý sức khỏe.
+
+---
 
 ## Phương Pháp Thực Hiện
 
@@ -52,15 +66,21 @@ Dự án thực hiện theo các bước:
 3. **Phát Triển Tính Năng**: Xây dựng các chức năng chính như chia sẻ công thức, theo dõi sức khỏe và tìm kiếm bằng hình ảnh.
 4. **Kiểm Thử và Triển Khai**: Đảm bảo tính ổn định và hiệu suất của hệ thống.
 
+---
+
 ## Kết Quả Dự Kiến
 
 - Một hệ thống hoạt động hiệu quả, đáp ứng nhu cầu chia sẻ thông tin dinh dưỡng và công thức nấu ăn của người dùng.
 - Giao diện thân thiện, dễ sử dụng với các tính năng tiện ích.
 - Khả năng tương tác cao và thu hút sự tham gia của người dùng.
 
+---
+
 ## Ý Nghĩa Khoa Học và Thực Tiễn
 
 Dự án này cung cấp giải pháp tích hợp giữa món ăn và dinh dưỡng, giúp người dùng có cái nhìn tổng quan về chế độ ăn uống và sức khỏe. Với các thông tin dinh dưỡng hữu ích và nền tảng chia sẻ công thức, dự án góp phần nâng cao chất lượng cuộc sống của người dùng.
+
+---
 
 ## Tiến Độ Thực Hiện
 
@@ -76,11 +96,15 @@ Dự án này cung cấp giải pháp tích hợp giữa món ăn và dinh dư�
 | 8   | 16-12-2024 đến 21-12-2024 | Chuẩn bị và chỉnh sửa báo cáo                     |
 | 9   | 22-12-2024                | Nộp kết quả thực hiện đề tài                      |
 
+---
+
 ## Hướng Phát Triển Tương Lai
 
 - Mở rộng tính năng lên kế hoạch ăn uống chi tiết.
 - Tích hợp học máy để đề xuất chế độ dinh dưỡng và sức khỏe cá nhân.
 - Nâng cao tính năng tìm kiếm bằng hình ảnh với công nghệ AI.
+
+---
 
 ## Thông Tin Liên Hệ
 
