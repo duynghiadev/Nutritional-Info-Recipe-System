@@ -48,6 +48,16 @@ ssh aws-server
 
 ---
 
+### Some images about application
+
+![Architecture Application](architecture-application.png)
+
+![Flow Upload Image](flow-upload-image.png)
+
+![Full App](architecture.png)
+
+---
+
 ## Giới Thiệu Đồ Án
 
 Đây là đồ án tốt nghiệp của **Lê Nguyễn Duy Nghĩa**, sinh viên Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, lớp 20SE4. Đồ án được thực hiện dưới sự hướng dẫn của **ThS. Đặng Thị Kim Ngân**.
