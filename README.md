@@ -52,9 +52,7 @@ ssh aws-server
 
 ![Architecture Application](architecture-application.png)
 
-![Flow Upload Image](flow-upload-image.png)
-
-![Full App](architecture.png)
+![Flow App](architecture.png)
 
 ---
 
