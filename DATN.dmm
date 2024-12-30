@@ -5404,7 +5404,7 @@
 		},
 		"def_coltopk": true,
 		"def_others": "",
-		"lastSaved": 1735050657554,
+		"lastSaved": 1735096782224,
 		"writeFileParam": false,
 		"authorName": "",
 		"companyDetails": "",
@@ -5707,7 +5707,7 @@
 					"collapsed": false
 				},
 				"2acfaadf-3e03-4069-94ef-28fa302db003": {
-					"x": 623,
+					"x": 641,
 					"y": 92,
 					"gHeight": 531,
 					"gWidth": 264,
@@ -5790,7 +5790,7 @@
 			"name": "Main Diagram",
 			"keysgraphics": true,
 			"linegraphics": "detailed",
-			"zoom": 0.4,
+			"zoom": 1,
 			"background": "transparent",
 			"scroll": {
 				"x": 0,
