@@ -48,9 +48,16 @@ ssh aws-server
 
 ---
 
-### Some images about application
+# Dự án mình đưa lên cloud (sử dụng AWS EC2)
 
-![Architecture Application](architecture-application.png)
+- Trong dự án mình có sử dụng những phần này, cần tìm hiểu kỹ để thuyết trình giải thích cho các giám khảo hiểu:
+  - Nginx là một phần mềm mã nguồn mở, được sử dụng để làm máy chủ web và reverse proxy
+  - Kiểu nó ánh xạ cái request bên ngoài vào trong cái máy chủ của mình
+  - Sẽ cấu hình đường đi trong nớ
+
+---
+
+### Some images about application
 
 ![Flow App](architecture.png)
 
