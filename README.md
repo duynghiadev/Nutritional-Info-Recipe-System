@@ -6,6 +6,12 @@
 
 ---
 
+# Lịch bảo vệ đồ án tốt nghiệp
+
+![DATN](lichthi.png)
+
+---
+
 ### Hướng Dẫn Vào Server Tại Máy Local Mà Không Cần Phải Vào Web AWS
 
 - Mình đã config ssh vào trong máy tính rồi, nên chỉ cần chạy lệnh này là có thể remote vào server:
