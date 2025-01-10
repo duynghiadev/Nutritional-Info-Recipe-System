@@ -1,20 +1,8 @@
-# Trong project Đồ Án Tốt Nghiệp mình cần tạo những tài khoản này:
-
-- tạo tk aws: https://www.youtube.com/watch?v=JWOscrg9EZ4 -> sử dụng tài khoản `duynghiadev`
-- google id: -> dùng tài khoản của bạn `Đức`
-- thuê người crawl data về thông tin dinh dưỡng -> phí `500k`
-- thuê Phạm Đức (owner project) làm giúp -> phí: thi xong đồ án -> bạn đó nhận `500k`
-
----
-
 ## Tài khoản AWS
 
 **account aws:**
 
 -> lưu ý khi đăng nhập, khi mình vào page aw2 thì mình click vào chỗ `using email root` -> rồi sử dụng tài khoản phía trên (`duynghiadev@gmail.com`) để login vào
-
-duynghiadev@gmail.com
-Duynghia@123
 
 ---
 
